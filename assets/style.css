@@ -1,0 +1,37 @@
+.container {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+#masthead {
+padding: 0
+}
+.jumbotron {
+    background-color: #D53635;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main-body {
+    background-image: linear-gradient(#E84F5E,#CB4767);
+    height: 800px;
+}
+h2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+li {
+    font-size: 25px;
+    margin-left: 27px;
+}
+#list-page {
+    margin-top: 30px;
+    height: 450px;
+    width: 220px;
+}
+#bio {
+    margin-top: 30px;
+    margin-left: 10px
+}
+#references {
+    margin-top: 30px;
+}
